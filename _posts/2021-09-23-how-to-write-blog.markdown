@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "맘시터 기술 블로그 활용법"
+author: jin
 ---
 
 # 1. 글을 쓴다
