@@ -1,5 +1,5 @@
 url: "https://mfort-inc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/momsitter-dev-blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog-test" # the subpath of your site, e.g. /blog
 permalink: pretty
 title: "맘편한세상 기술블로그"
 collections_dir: collections

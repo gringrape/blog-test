@@ -9,10 +9,6 @@
 @import "assets/css/syntax/monokai";
 
 @layer components {
-  body {
-    font-family: 'Nanum Gothic', sans-serif;
-  }
-  
   .heading {
     em,
     strong {
