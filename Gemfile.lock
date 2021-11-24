@@ -71,6 +71,3 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-postcss
   webrick (~> 1.7)
-
-BUNDLED WITH
-   1.17.2
